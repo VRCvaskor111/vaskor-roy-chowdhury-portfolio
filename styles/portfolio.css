@@ -112,3 +112,8 @@ main{
 .item-description{
     font-weight: 600;
 }
+
+/* skills section style */
+.skills-container{
+    display: flex;
+}
